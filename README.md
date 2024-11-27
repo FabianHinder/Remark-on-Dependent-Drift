@@ -1,6 +1,6 @@
 # A Remark on Concept Drift for Dependent Data
 
-Experimental code of conference paper. [Paper](TODO) [(ArXive version) TODO](https://arxiv.org/abs/)
+Experimental code of conference paper. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-58547-0_7) [(ArXiv version)](https://arxiv.org/abs/2312.10212)
 
 ## Abstract
 
@@ -22,9 +22,16 @@ To run the experiments, there are three stages 1. create the datasets (`--make`)
 
 ## Cite
 
-Cite our Paper
+Cite our Paper [_"A Remark on Concept Drift for Dependent Data"_](https://link.springer.com/chapter/10.1007/978-3-031-58547-0_7) [(ArXiv version)](https://arxiv.org/abs/2312.10212)
 ```
-TODO
+@inproceedings{hinder2024remark,
+  title={A remark on concept drift for dependent data},
+  author={Hinder, Fabian and Vaquet, Valerie and Hammer, Barbara},
+  booktitle={International Symposium on Intelligent Data Analysis},
+  pages={77--89},
+  year={2024},
+  organization={Springer}
+}
 ```
 
 ## License
